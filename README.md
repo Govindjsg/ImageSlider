@@ -1,5 +1,13 @@
 
 Android Image Slider
+
+
+
+
+You can shorten the image url using https://app.bitly.com/
+
+
+
 Just add the images you want to view.
 
 Easy to use.
